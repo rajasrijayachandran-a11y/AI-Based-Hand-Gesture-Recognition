@@ -1,0 +1,6 @@
+Upload these files to the existing GitHub repository:
+- hand_gesture_training.ipynb
+- Project_Report.docx
+- Project_Presentation.pptx
+
+Important: the notebook expects a real labelled CSV at /content/hand_landmarks.csv. Run the notebook on a real dataset before claiming measured results. The report and presentation are drafts and must be updated with the actual evaluation output.
